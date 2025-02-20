@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0232c6a6-81ca-4d7e-bca7-9ca9c726ab95)# 锐捷设备命令自学笔记
+# 锐捷设备命令自学笔记
 ## 进入全局命令
 `
 #configure terminal
